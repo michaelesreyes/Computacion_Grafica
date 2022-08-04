@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.img-p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-p .circulo{
+    width: 30%;
+    height: 100%;
+    margin: 10px;
+}
+
+.parrafo{
+    width: 70%;
+}
+
